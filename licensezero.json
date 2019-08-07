@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "licensezero": [
+    {
+      "agentSignature": "df9422ba0abb7e690648e957b48c26a177b0e08305ae63e7386a6f52ad6eb8fbf3d8b3bfe236179f14e25c2fe0a863a491fb5e3bbb68220cd84165963b987805",
+      "license": {
+        "homepage": "https://github.com/koreyconway/MoveX",
+        "jurisdiction": "CA-QC",
+        "name": "Korey Conway",
+        "projectID": "1d825888-52a8-4902-9ab1-820e0c51a9c3",
+        "publicKey": "ad2317a6f6da73afc1bf1aad8574f6b86ddf590b1436835bcc76aa7d68546e05",
+        "terms": "prosperity",
+        "version": "2.0.0"
+      },
+      "licensorSignature": "c51ab75f2328736e53c61af47daed8e1d90aeef957d6bbc52e72e86b6ab2ace1ba93091bae2cd244638ece1c0a402f8e42860e7e979d5d154e8c1a8ef4724609"
+    }
+  ]
+}

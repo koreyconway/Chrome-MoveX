@@ -1,0 +1,54 @@
+The Prosperity Public License 2.0.0
+
+Contributor: Korey Conway
+
+Source Code: https://github.com/koreyconway/MoveX
+
+This license lets you use and share this software for free,
+with a trial-length time limit on commercial use. Specifically:
+
+If you follow the rules below, you may do everything with this
+software that would otherwise infringe either the contributor's
+copyright in it, any patent claim the contributor can license
+that covers this software as of the contributor's latest
+contribution, or both.
+
+1. You must limit use of this software in any manner primarily
+   intended for or directed toward commercial advantage or
+   private monetary compensation to a trial period of 32
+   consecutive calendar days. This limit does not apply to use in
+   developing feedback, modifications, or extensions that you
+   contribute back to those giving this license.
+
+2. Ensure everyone who gets a copy of this software from you, in
+   source code or any other form, gets the text of this license
+   and the contributor and source code lines above.
+
+3. Do not make any legal claim against anyone for infringing any
+   patent claim they would infringe by using this software alone,
+   accusing this software, with or without changes, alone or as
+   part of a larger application.
+
+You are excused for unknowingly breaking rule 1 if you stop
+doing anything requiring this license within 30 days of
+learning you broke the rule.
+
+**This software comes as is, without any warranty at all. As far
+as the law allows, the contributor will not be liable for any
+damages related to this software or this license, for any kind of
+legal claim.**
+
+
+---
+
+Licensor Signature (Ed25519):
+
+1bf78bc3ee45d6b5d2163f3c918978129f10d7c25ccb81cf6fc10f8389aa3710
+35815df9cfc25dc9ecae8d656b2f9fe9be434daba4a43382d630a70b66610906
+
+---
+
+Agent Signature (Ed25519):
+
+40f8f42a0fbef5c9a983d84b7740ccfd0eca1d2ccbed470f565113af84eae0ca
+217164aa15c53449e8f99165ff0f79677fc4b75465645b1a436242f7d9d5630b
